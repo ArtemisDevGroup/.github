@@ -1,6 +1,4 @@
-
-
-![Artemis Group](https://github.com/ArtemisDevGroup/.github/blob/main/profile/ArtemisGroupLogo.png)
+![Artemis Group](https://github.com/ArtemisDevGroup/.github/blob/main/profile/ArtemisGroupLogo2.png)
 ## Who are we?
 We are a small group of Rainbow Six: Siege modders collaborating on creating modifications to make the Rainbow Six: Siege experience more enjoyable for everyone.
 
