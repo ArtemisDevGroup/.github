@@ -7,5 +7,5 @@ We are currently working on our biggest project yet; The Artemis Project. The Ar
 
 ## Why do we do it?
 As previously mentioned. We want to make the experience of playing old seasons of Rainbow Six: Siege as enjoyable and seamless as possible.  
-
-![Artemis Logo](LogoSmallerText.png)
+  
+![Artemis Logo](LogoFull.png)
