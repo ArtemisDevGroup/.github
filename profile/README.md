@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/ArtemisDevGroup/.github/blob/main/profile/logo.png" width="256" height="256"/>
+  <img src="https://github.com/ArtemisDevGroup/Artemis-Resources/blob/main/Logos/Logo256x.png" width="256" height="256"/>
 </p>
 
-![Artemis Group](https://github.com/ArtemisDevGroup/.github/blob/main/profile/ArtemisGroup.png)
+![Artemis Group](https://github.com/ArtemisDevGroup/Artemis-Resources/blob/main/Text/ArtemisGroup.png)
 ## Who are we?
 We are a small team of Rainbow Six: Siege modders. The team consists of [Sigma](https://github.com/Sigma0014) - the project leader and main programmer, [Monke](https://github.com/Monke-exe) - specialized in implementations involving complex calculations, and [Tavreth](https://github.com/Intifofo) - specialized in AI behaviour and spawning.
 
