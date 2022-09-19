@@ -4,10 +4,10 @@
 
 ![Artemis Group](https://github.com/ArtemisDevGroup/.github/blob/main/profile/ArtemisGroup.png)
 ## Who are we?
-We are a small group of Rainbow Six: Siege modders collaborating on creating modifications to make the Rainbow Six: Siege experience more enjoyable for everyone.
+We are a small team of Rainbow Six: Siege modders. The team consists of [Sigma](https://github.com/Sigma0014) - the project leader and main programmer, [Monke](https://github.com/Monke-exe) - specialized in implementations involving complex calculations, and [Tavreth](https://github.com/Intifofo) - specialized in AI behaviour and spawning.
 
 ## What do we do?
 We are currently working on our biggest project yet; The Artemis Project. The Artemis Project is a tool that will bring every found modification to the table in a single tool. It will be the best at every level, from UI and UX to efficient and easy-to-use modification implementations.
 
 ## Why do we do it?
-As previously mentioned. We want to make the experience of playing old seasons of Rainbow Six: Siege as enjoyable and seamless as possible.
+Our end goal is to make the experience of playing old seasons of Rainbow Six: Siege as enjoyable and seamless as possible.
