@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ArtemisDevGroup/.github/blob/main/profile/logo.png" width="256" height="211"/>
+  <img src="https://github.com/ArtemisDevGroup/.github/blob/main/profile/logo.png" width="256" height="256"/>
 </p>
 ![Artemis Group](https://github.com/ArtemisDevGroup/.github/blob/main/profile/ArtemisGroup.png)
 ## Who are we?
