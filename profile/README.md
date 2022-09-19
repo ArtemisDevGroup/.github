@@ -1,4 +1,4 @@
-![Artemis](artb_white_wide.png)
+![Artemis Group](ArtemisGroup.png)
 ## Who are we?
 We are a small group of Rainbow Six: Siege modders collaborating on creating modifications to make the Rainbow Six: Siege experience more enjoyable for everyone.
 
@@ -8,4 +8,6 @@ We are currently working on our biggest project yet; The Artemis Project. The Ar
 ## Why do we do it?
 As previously mentioned. We want to make the experience of playing old seasons of Rainbow Six: Siege as enjoyable and seamless as possible.  
   
-![Artemis Logo](logo.png)
+<p align="center">
+  <img src="logo.png"/>
+</p>
