@@ -8,7 +8,7 @@ We are a small team of Rainbow Six: Siege modders. The team consists of:
 * [Astrea](https://github.com/Sigma0014) - the project leader and main programmer.
 * [Monke](https://github.com/Monke-exe) - specialized in implementations involving complex calculations.
 * [Tavreth](https://github.com/Intifofo) - specialized in AI behaviour and spawning.
-* [Lungu](https://github.com/Lungu19) - specialized in forge asset swapping and loading.
+* [Lungu](https://github.com/Lungu19) - specialized in the FORGE file format.
 * [Hound](https://github.com/houndxds) - specialized in our web based services.
 * [Philip](https://github.com/Averagekurtlover) - specialized in the UI and UX of the Artemis Loader.
 
