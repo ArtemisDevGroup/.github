@@ -10,7 +10,7 @@ We are a small team of Rainbow Six: Siege modders. The team consists of:
 * [Tavreth](https://github.com/Intifofo) - specialized in AI behaviour and spawning.
 * [Lungu](https://github.com/Lungu19) - specialized in forge asset swapping and loading.
 * [Philip](https://github.com/Averagekurtlover) - specialized in the UI and UX of the Artemis Loader.
-* [M24](https://github.com/m24444) - specialized in low level languages.
+* [m24](https://github.com/m24444) - specialized in low level languages.
 
 ## What do we do?
 We are currently working on our biggest project yet; The Artemis Project. The Artemis Project is a tool that will bring every found modification to the table in a single tool. It will be the best at every level, from UI and UX to efficient and easy-to-use modification implementations.
